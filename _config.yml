@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Hugo Duportet"
+title: "Mohamed Chnafy"
 description: "Resume"
 keywords: ""
 url: "https://depture.github.io"
@@ -9,16 +9,16 @@ baseurl: "/OnlineResume/"
 
 # author
 author:
-  name: 'Hugo Duportet'
-  first_name: 'Hugo'
-  last_name: 'Duportet'
-  email: 'hugo.duportet@.gmail.com'
+  name: 'Mohamed Chnafy'
+  first_name: 'Mohamed'
+  last_name: 'Chnafy'
+  email: 'chnafy62@gmail.com'
   facebook_username: ''
   github_username: ''
-  avatar: 'static/img/landing/portrait1.png'
+  avatar: 'static/img/landing/portrait0.png'
   desc: 'I am a data scientist with a strong background in mathematics, with data mining, machine learning and coding experience. \n
   Through academic and profesionnal projects, I gained significant data mining, machine learning and coding experience. \n
-  Life is a continuous learning process, so work makes me more rigorous, musics makes my life more colorful.'
+  Life is a continuous learning process, so work makes me more rigorous'
 
 # Build settings
 encoding: "utf-8"
