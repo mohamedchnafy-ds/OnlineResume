@@ -1,0 +1,130 @@
+# careers section data
+- name:
+    detail: Lead AI researcher
+    i18n: Riminder_2
+  desc:
+    detail: Management of the NLP team. Working together with the dev team to organize and maintain a fast and reliable environment to smooth the scaling up of the start-up. Definition of the global objectives and solutions to avoid principal bottlenecks that have been encoutered.
+    i18n: Riminder_des_2
+  date:
+    detail: August 2018
+    i18n:  Riminder_date_2
+  job:
+    detail: Riminder | Paris
+    i18n: Riminder_job_2
+  icon: fa-bar-chart
+  course1:
+    detail: Natural Language Processing, Python, Keras, Tensorflow, Torch, Flask, Linux, AWS, Gcloud
+    i18n: Riminder_course1_2
+    
+- name:
+    detail: AI researcher
+    i18n: Riminder
+  desc:
+    detail:  Early member of the R&D team which experiments and develops cutting edge Natural Language Processing models to be deployed in production of the startup’s core AI recruitment system. Refined key algorithms for the structured extraction of multilingual data from resume, and fair assessment of talents for recruiters.  
+    i18n: Riminder_des
+  date:
+    detail: October 2017
+    i18n:  Riminder_date
+  job:
+    detail: Riminder | Paris
+    i18n: Riminder_job
+  icon: fa-bar-chart
+  course1:
+    detail: Natural Language Processing, Python, Keras, Tensorflow, Torch
+    i18n: Riminder_course1
+    
+- name:
+    detail: Bioinformatics Consulting
+    i18n: Eligo
+  desc:
+    detail: Working with awesome geneticists phd's to help them decipher genomic data.
+    i18n: Eligo_des
+  date:
+    detail: March 2017
+    i18n: Eligo_date
+  job:
+    detail: Eligo Bioscience | Paris
+    i18n: Eligo_job
+  icon: fa-bar-chart
+  course1:
+    detail: Genetic Engineering, BioPython, Text Mining
+    i18n: Eligo_course1
+
+- name:
+    detail: Master - 2
+    i18n: master2
+  desc:
+    detail: I chose a specialization in Data Science
+    i18n: master2_des
+  date:
+    detail: Sep. 2016
+    i18n: master2_date
+  job:
+    detail: Master in Data Science | UCBL - ECL - Liris | Lyon
+    i18n: master2_job
+  icon: fa-cubes
+  course1:
+    detail: Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes
+    i18n: master2_course1
+
+- name:
+    detail: Roxwhale - Research Scientist
+    i18n: internship
+  desc:
+    detail: Implementation of an indoor geolocation algorithm using ibeacon technology. I learned Python and specialized in probabilistic graphical models.
+    i18n: internship_des
+  date:
+    detail: Jan. 2016 - Oct. 2016
+    i18n: internship_date
+  job:
+    detail: Internship
+    i18n: internship_job
+  icon: fa-location-arrow
+  course1:
+    detail: Optimization, Signal Treatment, Statistical Modeling, Kalman Filters, Hidden Markov Models, Markov Random Fields, Machine learning
+    i18n: internship_course1
+
+- name:
+    detail: Master - 1
+    i18n: master1
+  desc:
+    detail: ...
+    i18n: master1_des
+  date:
+    detail: Dec. 2015
+    i18n: master1_date
+  job:
+    detail: Master in Statistics, Computer Science, and Numerical Analysis | UCBL | Lyon
+    i18n: master1_job
+  course1:
+    detail: Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes
+    i18n: master1_course1
+  # course2:
+  #   detail: hello2
+  #   i18n: master1_course2
+  # course3:
+  #   detail: hello2
+  #   i18n: master1_course2
+  course:
+    - course1:
+        detail: algebre
+        i18n: master1_course1
+      course2:
+        detail: At Roxwhale, I developped a geolocation algorithm using ibeacon technology. I learned Python and specialized in probabilistic graphical models.
+        i18n: master1_course2
+  icon: fa-university
+
+- name:
+    detail: Bachelor
+    i18n: bachelor
+  desc:
+    detail:  "At December 2014, I obtained my bachelor in mathematics and started my master"
+    i18n: bachelor_des
+  date:
+    detail: Dec. 2014
+    i18n: bachelor_date
+  job:
+    detail: Bachelor in Mathematics and Applications | UCBL | Lyon
+    i18n: bachelor_job
+  icon: fa-book
+ 

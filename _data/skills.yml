@@ -1,0 +1,36 @@
+# skills section data
+- name: Python
+  percentage: 95
+
+- name: Keras
+  percentage: 90
+
+- name: Tensorflow
+  percentage: 85
+
+- name: Torch
+  percentage: 75
+  
+- name: Matlab
+  percentage: 80
+
+- name: R
+  percentage: 70
+
+- name: Javascript | D3JS
+  percentage: 75
+
+- name: Hadoop | Spark | Storm
+  percentage: 70
+
+- name: HTML | CSS
+  percentage: 50
+  
+- name: Shell
+  percentage: 65
+
+- name: Docker
+  percentage: 65
+
+- name: AWS | GoogleCloud
+  percentage: 75

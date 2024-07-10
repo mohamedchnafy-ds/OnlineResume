@@ -1,0 +1,31 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: "Hugo Duportet"
+description: "Resume"
+keywords: ""
+url: "https://depture.github.io"
+baseurl: "/OnlineResume/"
+
+# author
+author:
+  name: 'Hugo Duportet'
+  first_name: 'Hugo'
+  last_name: 'Duportet'
+  email: 'hugo.duportet@.gmail.com'
+  facebook_username: ''
+  github_username: ''
+  avatar: 'static/img/landing/portrait1.png'
+  desc: 'I am a data scientist with a strong background in mathematics, with data mining, machine learning and coding experience. \n
+  Through academic and profesionnal projects, I gained significant data mining, machine learning and coding experience. \n
+  Life is a continuous learning process, so work makes me more rigorous, musics makes my life more colorful.'
+
+# Build settings
+encoding: "utf-8"
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

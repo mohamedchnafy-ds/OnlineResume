@@ -1,0 +1,21 @@
+# links section data
+- last_name: French
+  i18n: 'french'
+  first_name:
+  desc: 'Native'
+  website: ''
+  email: ''
+
+- last_name: English
+  i18n: 'english'
+  first_name:
+  desc: 'Professional'
+  website: ''
+  email: ''
+
+- last_name: Spanish
+  i18n: 'spanish'
+  first_name:
+  desc: 'Limited'
+  website: ''
+  email: ''

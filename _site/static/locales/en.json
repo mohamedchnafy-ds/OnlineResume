@@ -1,0 +1,70 @@
+{
+  "website":{
+    "title": "Hugo Duportet"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "Career",
+    "link": "Language"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "des": "I am a data scientist with a strong background in mathematics. Through academic and profesionnal projects, I gained significant data mining, machine learning, deep learning, and coding experience. Life is a continuous learning process, so work makes me more rigorous, musics makes my life more colorful.",
+    "my_skills": "My Skills"
+  },
+  "skills":{
+    "my_skills": "My Skills"
+  },
+  "projects":{
+    "my_projects": "My Projects",
+    "name_CD4": "Cell Cycle Modeling | Master's thesis",
+    "CD4": "Research on a new method to modelize the cell cycle of lymphocyte CD4 (white blood cells), (n in each generation, death/proliferation rate,...) | #Matlab ",
+    "name_d3js": "Data Visualization",
+    "d3js": "Visualizations on french assembly bipartism , flu evolution, and football odds comparator. | #html #css #javascript #d3js",
+    "name_kaggle": "Kaggle",    
+    "kaggle": "A well known data science competition hosting real world machine-learning problems.",
+    "name_Oil": "Oil Well Classification",
+    "Oil": "Determine the quality of several wells of a Canadian oil field with their production curves per month. | #R #Python",
+    "name_geoloc": "Indoor Geolocation | Internship's project",
+    "geoloc": "Implementation of an indoor geolocation algorithm for Roxhwale and analysis of customers' paths.| #Matlab #R #Python ",
+    "name_velov": "Velo'v Data Analysis",
+    "velov": "Determining the evolution of the city's (velo'v) bicycle fleet and provide statistics and graphical information for each station. #kafka #spark",
+    "name_depp": "Deep learning",
+    "deep_learning": "Geofrey Hinton's dicsiple :), Diving into restricted boltzmann machine recurrent neural network, learning"
+  },
+  "career":{
+    "my_career": "Career",
+    "Eligo": "Bioinformatics Consulting",
+    "Eligo_des": "Working with awesome geneticists phd's to help them decipher genomic data.",
+    "Eligo_date": "March 2016",
+    "Eligo_job": "Eligo Bioscience | Paris",
+    "Eligo_course1": "Genetic Engineering, BioPython, Text Mining",
+    "master2": "Master - 2",
+    "master2_des": "I chose a specialization in Data Science shared between Mathematics and Computer Science section of the University Lyon 1.",
+    "master2_date": "Sep. 2016",
+    "master2_job": "Master Data Science | Université Claude Bernard Lyon 1 (UCBL) - Ecole Centrale - Liris | Lyon",
+    "master2_course1": "Statistical methods and Regression Models, Probabilistic Graphical Models, Graph Complexity and Combinatory, Data Visualization, Cloud Computing, Data Mining, Big Data Analytics, Machine learning",
+    "internship": "Roxwhale - Internship",
+    "internship_des": "At Roxwhale, I developped a geolocation algorithm using ibeacon technology. I learned Python and specialized in probabilistic graphical models.",
+    "internship_date": "Jan. 2016 - Sep. 2016",
+    "internship_job": "Intern",
+    "internship_course1": "Optimization, Signal Treatment, Statistical Modeling, Hidden Markov Models, Markov Random Fields, Machine learning",
+    "master1": "Master - 1",
+    "master1_des": "In December 2015, I completed my first year of master and followed the machine learning course from Stanford University (Andrew Ng).",
+    "master1_date": "Dec. 2015",
+    "master1_job": "Master in Statistics, Computer Science, and Numerical Analysis | UCBL | Lyon",
+    "master1_course1": "Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes",
+    "bachelor": "Bachelor of Science",
+    "bachelor_des": "At December 2014, I obtained my bachelor in mathematics and started my master.",
+    "bachelor_date": "Dec. 2014",
+    "bachelor_job": "Mathematics and Applications | UCBL | Lyon"
+  },
+  "link":{
+    "link": "Language",
+    "view": "views"
+  }
+
+}

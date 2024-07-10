@@ -1,0 +1,69 @@
+{
+  "website":{
+    "title": "Hugo Duportet"
+  },
+  "nav":{
+    "home": "Accueil",
+    "about_me": "À propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "career": "Parcours",
+    "link": "Langue"
+  },
+  "about_me":{
+    "about_me": "À propos",
+    "des": "Je suis un jeune data scientist ayant une formation en mathématiques générales, et de l'expérience en data mining, machine learning et langages scientifiques."
+  },
+  "skills":{
+      "my_skills": "Compétences"
+    },
+    "projects":{
+      "my_projects": "Projets",
+      "name_CD4": "Modélisation du cycle cellulaire | Projet de Master",
+      "CD4": "Recherche sur la modélisation des lymhocytes CD4 (globules blancs) du système immunitaire, notamment les taux de divisions, de prolifération, de mort... | #Matlab ",
+      "name_d3js": "Data Visualization",
+      "d3js": "Plusieurs visualisations: sur le bipartisme de l'assemblée nationale française, l'évolution de la grippe en France et un sunburst sur l'évolution des côtes de paris sportifs. | #html #css #javascript #d3js",
+      "name_Oil": "Classification de puits de pétroles",
+      "Oil": "Détermination de la qualité de puits de pétroles au Canada à partir de leur courbe de production. | #R",
+      "name_geoloc": "Géolocalisation en intérieur | Projet de stage",
+      "geoloc": "Implémentation d'un algorithme de géolocalisation pour la start-up Roxhwale et analyse du parcours.| #Matlab #R #Python ",
+      "name_velov": "Analyse de données Velo'v",
+      "velov": "Détermination de l'évolution des vélos en libre service de la ville de Lyon, analyse descriptive, statistique et apprentissage sur ces données. #kafka #spark"
+    },
+  "career":{
+    "my_career": "Parcours",
+    "Eligo": "Consultant en Bio-informatique",
+    "Eligo_des": "Mise en place d'algorithmes analysant les séquences d'adn.",
+    "Eligo_date": "Mars 2016",
+    "Eligo_job": "Eligo Bioscience | Paris",
+    "Eligo_course1": "Genetic Engineering, BioPython, Text Mining",
+    "master2": "Master - 2",
+    "master2_des": "J'ai suivi le parcours Data Science mutualisé entre les sections informatiques et mathématiques de l'Université Lyon 1.",
+    "master2_date": "Sep. 2016",
+    "master2_job": "Master Data Science | Université Claude Bernard Lyon 1 (UCBL) - Ecole Centrale - Liris | Lyon",
+    "master2_course1": "Modèles statistiques et régression, Modèle Graphique Probabiliste, Graphe Complexité et Combinatoire, Data Visualization, Cloud Computing, Data Mining, Big Data Analytics, Machine learning",
+    "internship": "Roxwhale - Stage",
+    "internship_des": "Développement d'un algorithme de géolocalisation en intérieur. J'ai engrangé de l'expérience en python et ai amélioré ma connaissance des modèles graphiques probabilistes.",
+    "internship_date": "Jan. 2016 - Sep. 2016",
+    "internship_job": "Stagiaire",
+    "internship_course1": "Optimisation, Traitement du signal, Modélisation Statistiques, Modèle de Markov Caché, Champs de Markov, Machine learning",
+    "master1": "Master - 1",
+    "master1_des": "En décembre 2015, j'ai terminé ma première année de master et ai suivi le mooc de machine learning de l'université de Stanford (Andrew Ng).",
+    "master1_date": "Dec. 2015",
+    "master1_job": "Master Statistique, Informatique et Technique Numérique | UCBL | Lyon",
+    "master1_course1": "Analyse Numérique, Probabilités, Statistiques paramétriques, Séries Temporelles, Systèmes Dynamiques, Processus Stochastiques",
+    "bachelor": "Licence De Mathématiques",
+    "bachelor_des": "J'ai obtenu ma licence de mathématiques en 2014.",
+    "bachelor_date": "Dec. 2014",
+    "bachelor_job": "Licence Mathématiques Générales et Applications | UCBL | Lyon"
+  },
+
+  "link":{
+    "link": "Langue",
+    "view": "views",
+    "french":{"last_name":"Français", "desc": "Natif"},
+    "english":{"last_name": "Anglais", "desc": "Profesionnel"},
+    "spanish":{"last_name": "Espagnol", "desc": "Limité"}
+  }
+
+}
