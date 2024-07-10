@@ -3,7 +3,7 @@
     detail: Data Scientist
     i18n: Fondasol
   desc:
-    detail: Collaboration étroite avec les clients ingénieurs et les équipes pour définir les besoins et proposer des solutions. Traitement complet des données avec R et Python. Développement de tableaux de bord interactifs. Veille scientifique et technique. Utilisation de séries temporelles pour la modélisation prédictive. Création et déploiement de modèles machine learning et deep learning.
+    detail: Close collaboration with engineering clients and teams to define requirements and propose solutions. Comprehensive data processing using R and Python. Development of interactive dashboards. Scientific and technical monitoring. Application of time series for predictive modeling. Creation and deployment of machine learning and deep learning models.
     i18n: Fondasol_des
   date:
     detail: 2020 - 2023
@@ -13,73 +13,73 @@
     i18n: Fondasol_job
   icon: fa-bar-chart
   course1:
-    detail: Machine Learning, Deep Learning, R, Python, Séries temporelles, Data Visualisation, R Shiny, Dash, Tableau, Power BI, Streamlit
+    detail: Machine Learning, Deep Learning, R, Python, Time Series Analysis, Data Visualization, R Shiny, Dash, Tableau, Power BI, Streamlit
     i18n: Fondasol_course1
 
 - name:
-    detail: Stage de fin d'étude en NLP
+    detail: NLP Research Internship
     i18n: LIRIS
   desc:
-    detail: Conception et mise en œuvre d'un agent conversationnel basé sur l'IA, utilisant l'apprentissage profond et le traitement automatique du langage naturel. Synthèse de publications scientifiques. Implémentation Python (principalement PyTorch et TensorFlow).
+    detail: Design and implementation of an AI-based conversational agent utilizing deep learning and natural language processing. Synthesis of scientific publications. Python implementation (primarily PyTorch and TensorFlow).
     i18n: LIRIS_des
   date:
     detail: 2020
     i18n: LIRIS_date
   job:
-    detail: LIRIS
+    detail: LIRIS (Laboratoire d'InfoRmatique en Image et Systèmes d'information)
     i18n: LIRIS_job
   icon: fa-code
   course1:
-    detail: NLP, Deep Learning, Python, PyTorch, TensorFlow
+    detail: Natural Language Processing, Deep Learning, Python, PyTorch, TensorFlow
     i18n: LIRIS_course1
 
 - name:
-    detail: Master 2 Mathématiques appliquées parcours Data science
+    detail: Master's Degree in Applied Mathematics, Data Science Specialization
     i18n: master2
   desc:
-    detail: Formation approfondie en Data Science
+    detail: Advanced training in Data Science
     i18n: master2_des
   date:
     detail: 2019 - 2020
     i18n: master2_date
   job:
-    detail: Université Claude Bernard Lyon 1
+    detail: Claude Bernard University Lyon 1
     i18n: master2_job
   icon: fa-university
   course1:
-    detail: Machine Learning, Times Series, Big data analytics, Data mining, Data Visualisation, Analyse factorielle, Statistique inférentielle
+    detail: Machine Learning, Time Series Analysis, Big Data Analytics, Data Mining, Data Visualization, Factor Analysis, Inferential Statistics
     i18n: master2_course1
 
 - name:
-    detail: Master 1 Mathématiques appliquées, statistique
+    detail: Master's Degree (First Year) in Applied Mathematics and Statistics
     i18n: master1
   desc:
-    detail: Formation en mathématiques appliquées et statistiques
+    detail: Training in applied mathematics and statistics
     i18n: master1_des
   date:
     detail: 2018 - 2019
     i18n: master1_date
   job:
-    detail: Université Claude Bernard Lyon 1
+    detail: Claude Bernard University Lyon 1
     i18n: master1_job
   icon: fa-university
   course1:
-    detail: Probabilités, Statistiques, Séries temporelles, Analyse numérique et optimisation, Traitement du signal
+    detail: Probability Theory, Statistics, Time Series Analysis, Numerical Analysis and Optimization, Signal Processing
     i18n: master1_course1
 
 - name:
-    detail: Licence de Mathématiques Générales
+    detail: Bachelor's Degree in General Mathematics
     i18n: licence
   desc:
-    detail: Solides bases en mathématiques, probabilités, statistiques
+    detail: Solid foundation in mathematics, probability, and statistics
     i18n: licence_des
   date:
     detail: 2016 - 2018
     i18n: licence_date
   job:
-    detail: Université d'Avignon et des Pays de Vaucluse
+    detail: University of Avignon
     i18n: licence_job
   icon: fa-book
   course1:
-    detail: Mathématiques, Probabilités, Statistiques
+    detail: Mathematics, Probability Theory, Statistics
     i18n: licence_course1
