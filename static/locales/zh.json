@@ -19,7 +19,7 @@
     },
     "projects":{
       "my_projects": "Projets",
-      "name_CD4": "Traitement d'image avec des modèles de mélanges gaussiens | Projet de Master",
+      "name_CD4": "Modèles de mélanges gaussiens | Projet de Master",
       "CD4": "Débruitage d'images par modèles de mélanges gaussiens et algorithmes de classification (K-means, Expectation-Maximization). #Python #R #Matlab ",
       "name_d3js": "BERT",
       "d3js": " Développement d'un chatbot conversationnel basé sur l'architecture BERT | #Python #html #css #javascript #d3js",

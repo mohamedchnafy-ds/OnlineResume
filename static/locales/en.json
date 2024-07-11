@@ -11,60 +11,59 @@
     "link": "Language"
   },
   "about_me":{
-    "about_me": "About Me",
-    "des": "I am a data scientist with a strong background in mathematics. Through academic and profesionnal projects, I gained significant data mining, machine learning, deep learning, and coding experience. Life is a continuous learning process, so work makes me more rigorous.",
-    "my_skills": "My Skills"
+    "about_me": "About",
+    "des": "I am a young data scientist with a background in general mathematics, and experience in data mining, machine learning, and scientific languages."
   },
   "skills":{
-    "my_skills": "My Skills"
-  },
-  "projects":{
-    "my_projects": "My Projects",
-    "name_CD4": "Cell Cycle Modeling | Master's thesis",
-    "CD4": "Research on a new method to modelize the cell cycle of lymphocyte CD4 (white blood cells), (n in each generation, death/proliferation rate,...) | #Matlab ",
-    "name_d3js": "Data Visualization",
-    "d3js": "Visualizations on french assembly bipartism , flu evolution, and football odds comparator. | #html #css #javascript #d3js",
-    "name_kaggle": "Kaggle",    
-    "kaggle": "A well known data science competition hosting real world machine-learning problems.",
-    "name_Oil": "Oil Well Classification",
-    "Oil": "Determine the quality of several wells of a Canadian oil field with their production curves per month. | #R #Python",
-    "name_geoloc": "Indoor Geolocation | Internship's project",
-    "geoloc": "Implementation of an indoor geolocation algorithm for Roxhwale and analysis of customers' paths.| #Matlab #R #Python ",
-    "name_velov": "Velo'v Data Analysis",
-    "velov": "Determining the evolution of the city's (velo'v) bicycle fleet and provide statistics and graphical information for each station. #kafka #spark",
-    "name_kaggle": "Kaggle",
-    "kaggle": "Kaggle is a platform for predictive modelling and analytics competitions."
-  },
+      "my_skills": "Skills"
+    },
+    "projects":{
+      "my_projects": "Projects",
+      "name_CD4": "Gaussian Mixture Models | Master's Project",
+      "CD4": "Image denoising using Gaussian mixture models and classification algorithms (K-means, Expectation-Maximization). #Python #R #Matlab",
+      "name_d3js": "BERT",
+      "d3js": "Development of a conversational chatbot based on the BERT architecture | #Python #html #css #javascript #d3js",
+      "name_Oil": "Matérn process",
+      "Oil": "Simulation of a Matérn process to understand how grouped data manifest and how different parameters influence their spatial distribution. | #R #Python",
+      "name_geoloc": "Prediction of soil mechanical parameters",
+      "geoloc": "Implementation of an analysis and prediction algorithm | #Matlab #R #Python",
+      "name_velov": "Velo'v data analysis",
+      "velov": "Determining the evolution of bike-sharing in Lyon, descriptive analysis, statistics, and learning on this data. #kafka #spark"
+    },
   "career":{
     "my_career": "Career",
-    "Eligo": "Bioinformatics Consulting",
-    "Eligo_des": "Working with awesome geneticists phd's to help them decipher genomic data.",
-    "Eligo_date": "March 2016",
+    "Eligo": "Data scientist",
+    "Eligo_des": "Implementation of algorithms for predicting soil mechanical parameters.",
+    "Eligo_date": "December 2020",
     "Eligo_job": "Eligo Bioscience | Paris",
     "Eligo_course1": "Genetic Engineering, BioPython, Text Mining",
     "master2": "Master - 2",
-    "master2_des": "I chose a specialization in Data Science shared between Mathematics and Computer Science section of the University Lyon 1.",
-    "master2_date": "Sep. 2016",
-    "master2_job": "Master Data Science | Université Claude Bernard Lyon 1 (UCBL) - Ecole Centrale - Liris | Lyon",
-    "master2_course1": "Statistical methods and Regression Models, Probabilistic Graphical Models, Graph Complexity and Combinatory, Data Visualization, Cloud Computing, Data Mining, Big Data Analytics, Machine learning",
-    "internship": "Research Scientist Internship",
-    "internship_des": "At Roxwhale, I developped a geolocation algorithm using ibeacon technology. I learned Python and specialized in probabilistic graphical models.",
-    "internship_date": "Jan. 2016 - Sep. 2016",
-    "internship_job": "RoxWhale | Intern",
-    "internship_course1": "Optimization, Signal Treatment, Statistical Modeling, Kalman Filters, Hidden Markov Models, Markov Random Fields, Machine learning",
+    "master2_des": "I followed the Data Science track shared between the computer science and mathematics departments at the University of Lyon 1.",
+    "master2_date": "Sep. 2020 - Jun. 2020",
+    "master2_job": "Master Data Science | Claude Bernard University Lyon 1 (UCBL) - Ecole Centrale - Liris | Lyon",
+    "master2_course1": "Statistical Models and Regression, Probabilistic Graphical Models, Complex Graph Theory and Combinatorics, Data Visualization, Cloud Computing, Data Mining, Big Data Analytics, Machine Learning",
+   "internship": "Laboratory of Computer Science in Images and Information Systems (LIRIS) - Internship",
+    "internship_des": "Development of a chatbot using the BERT architecture",
+    "internship_date": "Mar. 2020 - Sep. 2020",
+    "internship_job": "LIRIS - Lyon",
+    "internship_course1": "Data collection, Data cleaning, Machine learning, Deep learning, Preprocessing, Nifi, HDFS, Spark",
     "master1": "Master - 1",
-    "master1_des": "In December 2015, I completed my first year of master and followed the machine learning course from Stanford University (Andrew Ng).",
-    "master1_date": "Dec. 2015",
-    "master1_job": "Master in Statistics, Computer Science, and Numerical Analysis | UCBL | Lyon",
-    "master1_course1": "Numerical Analysis, Probabilities, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes",
-    "bachelor": "Bachelor of Science",
-    "bachelor_des": "At December 2014, I obtained my bachelor in mathematics and started my master.",
-    "bachelor_date": "Dec. 2014",
-    "bachelor_job": "Mathematics and Applications | UCBL | Lyon"
+    "master1_des": "In June 2019, I completed my first year of master's in Applied Mathematics and Statistics",
+    "master1_date": "Sep. 2018 - Sep. 2019",
+    "master1_job": "Master in Statistics, Computer Science and Digital Techniques | UCBL | Lyon",
+    "master1_course1": "Numerical Analysis, Probability, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes",
+    "bachelor": "Bachelor's Degree in Mathematics",
+    "bachelor_des": "I completed my Bachelor's degree in General Mathematics, which provided me with a very solid foundation",
+    "bachelor_date": "Sep. 2017 - Sep. 2018",
+    "bachelor_job": "Bachelor's in General Mathematics and Applications | University of Avignon | Avignon"
   },
+
   "link":{
     "link": "Language",
-    "view": "views"
+    "view": "views",
+    "french":{"last_name":"French", "desc": "Native"},
+    "english":{"last_name": "English", "desc": "Professional"},
+    "arabic":{"last_name":"Arabic", "desc": "Native"},
+    "spanish":{"last_name": "Spanish", "desc": "Limited"}
   }
-
 }
