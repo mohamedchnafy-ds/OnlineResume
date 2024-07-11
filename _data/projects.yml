@@ -32,9 +32,9 @@
   img: 'static/img/projects/d3.png'
   repo: 'yes'
 
-- name:
-    i18n: 'name_kaggle'
-  desc:
-    i18n: 'kaggle'
-  img: 'static/img/projects/kaggle.jpeg'
-  repo_k: 'yes'
+#- name:
+#    i18n: 'name_kaggle'
+#  desc:
+#    i18n: 'kaggle'
+#  img: 'static/img/projects/kaggle.jpeg'
+#  repo_k: 'yes'
