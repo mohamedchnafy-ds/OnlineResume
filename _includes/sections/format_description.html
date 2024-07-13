@@ -1,6 +1,0 @@
-{% assign lines = include.text | split: ". " %}
-<ul>
-{% for line in lines %}
-  <li>{{ line | strip }}{% if forloop.last != true %}.{% endif %}</li>
-{% endfor %}
-</ul>

@@ -17,7 +17,12 @@
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
                         <h2><span i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></h2>
                         <span i18n="career.{{ career.desc.i18n }}">
-                            {% include format_description.html text=career.desc.detail %}
+                            {% assign lines = career.desc.detail | split: ". " %}
+                            <ul>
+                            {% for line in lines %}
+                              <li>{{ line | strip }}{% if forloop.last != true %}.{% endif %}</li>
+                            {% endfor %}
+                            </ul>
                         </span>
                         {% if career.course1 %}
                         <h5>{{"Main field of study:"}}</h5>
