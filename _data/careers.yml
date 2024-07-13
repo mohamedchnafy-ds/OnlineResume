@@ -4,17 +4,11 @@
     i18n: Fondasol
   desc:
     detail: |
-       Close collaboration with engineering clients and teams to define requirements and propose solutions.
-
-       Comprehensive data processing using Python and R. 
-       
-       Development of interactive dashboards. 
-
-       Scientific and technical monitoring. 
-
-       Application of time series for predictive modeling. 
-
-       Creation and deployment of machine learning and deep learning models.
+       Lead and supervise predictive modeling projects for soil mechanical parameters using machine learning techniques (Random Forest, GAM, neural networks, SVM) and geostatistics (Kriging, co-kriging) to improve analysis accuracy. 
+       Data analysis and reporting: extract, clean, and format data using R and Python. Conduct descriptive analyses and develop interactive dashboards (R Shiny, Dash, Tableau, Power BI) to effectively communicate results. 
+       Scientific and technical monitoring: In-depth investigation of scientific articles to extract the latest advances in machine learning and geostatistics, and apply them to business challenges. 
+       Modeling and prediction: Develop and deploy predictive algorithms (R, Python) to simulate soil mechanical parameters in real-time and optimize decision-making. 
+       Multi-DBMS expertise: Design scalable web applications with PostgreSQL, administer large volumes of enterprise data with Oracle Database, and implement complex analytical solutions with IBM Db2. 
 
     i18n: Fondasol_des
   date:
