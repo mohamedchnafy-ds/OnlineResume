@@ -1,21 +1,3 @@
-<style>
-    .vertical-timeline-content {
-        position: relative;
-        padding-bottom: 40px; /* Ajustez selon vos besoins */
-    }
-    .vertical-timeline-content-inner {
-        margin-bottom: 20px; /* Ajustez selon vos besoins */
-    }
-    .vertical-date {
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        text-align: right;
-        padding: 10px;
-    }
-</style>
-
 <div id="i18_career" class="container">
     <div class="row">
         <div class="col-lg-12 text-center">
@@ -33,21 +15,19 @@
                         <i class="fa {{ career.icon }}"></i>
                     </div>
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
-                        <div class="vertical-timeline-content-inner">
-                            <h2><span i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></h2>
-                            <span i18n="career.{{ career.desc.i18n }}">
-                                {% assign lines = career.desc.detail | split: ". " %}
-                                <ul>
-                                {% for line in lines %}
-                                  <li>{{ line | strip }}{% if forloop.last != true %}.{% endif %}</li>
-                                {% endfor %}
-                                </ul>
-                            </span>
-                            {% if career.course1 %}
-                            <h5>{{"Main field of study:"}}</h5>
-                            <span i18n="career.{{ career.course1.i18n }}">{{ career.course1.detail }}</span>
-                            {% endif %}
-                        </div>
+                        <h2><span i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></h2>
+                        <span i18n="career.{{ career.desc.i18n }}">
+                            {% assign lines = career.desc.detail | split: ". " %}
+                            <ul>
+                            {% for line in lines %}
+                              <li>{{ line | strip }}{% if forloop.last != true %}.{% endif %}</li>
+                            {% endfor %}
+                            </ul>
+                        </span>
+                        {% if career.course1 %}
+                        <h5>{{"Main field of study:"}}</h5>
+                        <span i18n="career.{{ career.course1.i18n }}">{{ career.course1.detail }}</span>
+                        {% endif %}
                         <span class="vertical-date">
                             <span i18n="career.{{ career.date.i18n }}"> {{ career.date.detail }} </span>
                             <br/>
