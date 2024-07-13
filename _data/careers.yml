@@ -12,7 +12,7 @@
 
     i18n: Fondasol_des
   date:
-    detail: 2020 - 2023
+    detail: 2020 - 2023 
     i18n: Fondasol_date
   job:
     detail: Fondasol
@@ -29,7 +29,7 @@
     detail: Design and implementation of an AI-based conversational agent utilizing deep learning and natural language processing. Synthesis of scientific publications. Python implementation (primarily PyTorch and TensorFlow).
     i18n: LIRIS_des
   date:
-    detail: 2020
+    detail: 2020 
     i18n: LIRIS_date
   job:
     detail: LIRIS (Laboratoire d'InfoRmatique en Image et Systèmes d'information)
@@ -46,7 +46,7 @@
     detail: I chose a specialization in Data Science shared between Mathematics and Computer Science section of the University Lyon 1.
     i18n: master2_des
   date:
-    detail: 2019 - 2020
+    detail: 2019 - 2020 
     i18n: master2_date
   job:
     detail: Claude Bernard University Lyon 1
@@ -63,7 +63,7 @@
     detail: Training in applied mathematics and statistics
     i18n: master1_des
   date:
-    detail: 2018 - 2019
+    detail: 2018 - 2019 
     i18n: master1_date
   job:
     detail: Claude Bernard University Lyon 1
@@ -80,7 +80,7 @@
     detail: Solid foundation in mathematics, probability, and statistics
     i18n: licence_des
   date:
-    detail: 2016 - 2018
+    detail: 2016 - 2018 
     i18n: licence_date
   job:
     detail: University of Avignon
