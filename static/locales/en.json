@@ -12,7 +12,7 @@
   },
   "about_me":{
     "about_me": "About",
-    "des": "Creative and meticulous Data Scientist with a proven track record of transforming data into actionable insights for strategic decision-making in the industrial sector. Demonstrated expertise in predictive analytics, data visualization, statistics, machine learning, and deep learning."
+    "des": "I am a young data scientist with a background in general mathematics, and experience in data mining, machine learning, and scientific languages."
   },
   "skills":{
       "my_skills": "Skills"
@@ -30,34 +30,33 @@
       "name_velov": "Velo'v data analysis",
       "velov": "Determining the evolution of bike-sharing in Lyon, descriptive analysis, statistics, and learning on this data. #kafka #spark"
     },
-  "career": {
-  "my_career": "Career",
-  "Fondasol": "Data Scientist",
-  "Fondasol_des": "TEST TEST Lead and supervise predictive modeling projects for soil mechanical parameters using machine learning techniques (Random Forest, GAM, neural networks, SVM) and geostatistics (Kriging, co-kriging) to improve analysis accuracy. Data analysis and reporting: extract, clean, and format data using R and Python. Conduct descriptive analyses and develop interactive dashboards (R Shiny, Dash, Tableau, Power BI, Streamlit) to effectively communicate results. Scientific and technical monitoring: In-depth investigation of scientific articles to extract the latest advances in machine learning, deep learning and geostatistics, and apply them to business challenges. Modeling and prediction: Develop and deploy predictive algorithms (R, Python) to simulate soil mechanical parameters in real-time and optimize decision-making. Multi-DBMS expertise: Design scalable web applications with PostgreSQL, administer large volumes of enterprise data with Oracle Database, and implement complex analytical solutions with IBM Db2.",
-  "Fondasol_date": "2020 - 2023",
-  "Fondasol_job": "Fondasol",
-  "Fondasol_course1": "Machine Learning, Deep Learning, R, Python, Time Series Analysis, Data Visualization, R Shiny, Dash, Tableau, Power BI, Streamlit",
-  "LIRIS": "NLP Research Internship",
-  "LIRIS_des": "Design and implementation of an AI-based conversational agent utilizing deep learning and natural language processing. Synthesis of scientific publications. Python implementation (primarily PyTorch and TensorFlow).",
-  "LIRIS_date": "2020",
-  "LIRIS_job": "LIRIS (Laboratoire d'InfoRmatique en Image et Systèmes d'information)",
-  "LIRIS_course1": "Natural Language Processing (NLP), Deep learning, Python, PyTorch, TensorFlow",
-  "master2": "Master's Degree in Applied Mathematics, Data Science Specialization",
-  "master2_des": "I chose a specialization in Data Science shared between Mathematics and Computer Science section of the University Lyon 1.",
-  "master2_date": "2019 - 2020",
-  "master2_job": "Claude Bernard University Lyon 1",
-  "master2_course1": "Statistical methods and Regression Models, Probabilistic Graphical Models, Graph Complexity and Combinatory, Data Visualization, Cloud Computing, Data Mining, Big Data Analytics, Machine learning",
-  "master1": "Master's Degree (First Year) in Applied Mathematics and Statistics",
-  "master1_des": "Training in applied mathematics and statistics",
-  "master1_date": "2018 - 2019",
-  "master1_job": "Claude Bernard University Lyon 1",
-  "master1_course1": "Probability Theory, Statistics, Time Series Analysis, Numerical Analysis and Optimization, Signal Processing",
-  "licence": "Bachelor's Degree in General Mathematics",
-  "licence_des": "Solid foundation in mathematics, probability, and statistics",
-  "licence_date": "2016 - 2018",
-  "licence_job": "University of Avignon",
-  "licence_course1": "Mathematics, Probability Theory, Statistics"
-},
+  "career":{
+    "my_career": "Career",
+    "Eligo": "Data scientist",
+    "Eligo_des": "Implementation of algorithms for predicting soil mechanical parameters.",
+    "Eligo_date": "December 2020",
+    "Eligo_job": "Eligo Bioscience | Paris",
+    "Eligo_course1": "Genetic Engineering, BioPython, Text Mining",
+    "master2": "Master - 2",
+    "master2_des": "I followed the Data Science track shared between the computer science and mathematics departments at the University of Lyon 1.",
+    "master2_date": "Sep. 2020 - Jun. 2020",
+    "master2_job": "Master Data Science | Claude Bernard University Lyon 1 (UCBL) - Ecole Centrale - Liris | Lyon",
+    "master2_course1": "Statistical Models and Regression, Probabilistic Graphical Models, Complex Graph Theory and Combinatorics, Data Visualization, Cloud Computing, Data Mining, Big Data Analytics, Machine Learning",
+   "internship": "Laboratory of Computer Science in Images and Information Systems (LIRIS) - Internship",
+    "internship_des": "Development of a chatbot using the BERT architecture",
+    "internship_date": "Mar. 2020 - Sep. 2020",
+    "internship_job": "LIRIS - Lyon",
+    "internship_course1": "Data collection, Data cleaning, Machine learning, Deep learning, Preprocessing, Nifi, HDFS, Spark",
+    "master1": "Master - 1",
+    "master1_des": "In June 2019, I completed my first year of master's in Applied Mathematics and Statistics",
+    "master1_date": "Sep. 2018 - Sep. 2019",
+    "master1_job": "Master in Statistics, Computer Science and Digital Techniques | UCBL | Lyon",
+    "master1_course1": "Numerical Analysis, Probability, Parametric Statistics, Time Series, Dynamical Systems, Stochastic Processes",
+    "bachelor": "Bachelor's Degree in Mathematics",
+    "bachelor_des": "I completed my Bachelor's degree in General Mathematics, which provided me with a very solid foundation",
+    "bachelor_date": "Sep. 2017 - Sep. 2018",
+    "bachelor_job": "Bachelor's in General Mathematics and Applications | University of Avignon | Avignon"
+  },
 
   "link":{
     "link": "Language",
