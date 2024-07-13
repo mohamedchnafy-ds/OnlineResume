@@ -5,10 +5,10 @@
   desc:
     detail: |
        Lead and supervise predictive modeling projects for soil mechanical parameters using machine learning techniques (Random Forest, GAM, neural networks, SVM) and geostatistics (Kriging, co-kriging) to improve analysis accuracy. 
-       Data analysis and reporting: extract, clean, and format data using R and Python. Conduct descriptive analyses and develop interactive dashboards (R Shiny, Dash, Tableau, Power BI) to effectively communicate results. 
-       Scientific and technical monitoring: In-depth investigation of scientific articles to extract the latest advances in machine learning and geostatistics, and apply them to business challenges. 
+       Data analysis and reporting: extract, clean, and format data using R and Python. Conduct descriptive analyses and develop interactive dashboards (R Shiny, Dash, Tableau, Power BI, Streamlit) to effectively communicate results. 
+       Scientific and technical monitoring: In-depth investigation of scientific articles to extract the latest advances in machine learning, deep learning and geostatistics, and apply them to business challenges. 
        Modeling and prediction: Develop and deploy predictive algorithms (R, Python) to simulate soil mechanical parameters in real-time and optimize decision-making. 
-       Multi-DBMS expertise: Design scalable web applications with PostgreSQL, administer large volumes of enterprise data with Oracle Database, and implement complex analytical solutions with IBM Db2. 
+       Multi-DBMS expertise: Design scalable web applications with PostgreSQL, administer large volumes of enterprise data with Oracle Database, and implement complex analytical solutions with IBM Db2.
 
     i18n: Fondasol_des
   date:
@@ -36,14 +36,14 @@
     i18n: LIRIS_job
   icon: fa-code
   course1:
-    detail: Natural Language Processing, Deep Learning, Python, PyTorch, TensorFlow
+    detail: Natural Language Processing (NLP), Deep learning, Python, PyTorch, TensorFlow
     i18n: LIRIS_course1
 
 - name:
     detail: Master's Degree in Applied Mathematics, Data Science Specialization
     i18n: master2
   desc:
-    detail: Advanced training in Data Science
+    detail: I chose a specialization in Data Science shared between Mathematics and Computer Science section of the University Lyon 1.
     i18n: master2_des
   date:
     detail: 2019 - 2020
@@ -53,7 +53,7 @@
     i18n: master2_job
   icon: fa-university
   course1:
-    detail: Machine Learning, Time Series Analysis, Big Data Analytics, Data Mining, Data Visualization, Factor Analysis, Inferential Statistics
+    detail: Statistical methods and Regression Models, Probabilistic Graphical Models, Graph Complexity and Combinatory, Data Visualization, Cloud Computing, Data Mining, Big Data Analytics, Machine learning
     i18n: master2_course1
 
 - name:
