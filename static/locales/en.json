@@ -7,7 +7,7 @@
     "about_me": "About",
     "skills": "Skills",
     "projects": "Projects",
-    "career": "Career",
+    "career": "Careers",
     "link": "Language"
   },
   "about_me": {
@@ -31,7 +31,7 @@
     "velov": "Determining the evolution of bike-sharing in Lyon, descriptive analysis, statistics, and learning on this data. #kafka #spark"
   },
   "career": {
-    "my_career": "Career"
+    "my_career": "Careers"
   },
   "link": {
     "link": "Language",
