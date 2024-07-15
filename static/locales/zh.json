@@ -31,7 +31,49 @@
     "velov": "Détermination de l'évolution des vélos en libre-service de la ville de Lyon, analyse descriptive, statistique et apprentissage sur ces données. #kafka #spark"
   },
   "career": {
-    "my_career": "Parcours"
+    "my_career": "Parcours",
+    "main_field_of_study": "Domaine d'étude principal",
+    "Fondasol": "Data Scientist",
+    "Fondasol_des": {
+      "0": "Diriger et superviser des projets de modélisation prédictive des paramètres mécaniques du sol en utilisant des techniques d'apprentissage automatique (Random Forest, GAM, réseaux de neurones, SVM) et de géostatistique (Krigeage, co-krigeage) pour améliorer la précision des analyses.",
+      "1": "Analyse de données et reporting : extraire, nettoyer et mettre en forme des données avec R et Python. Réalisation d'analyses descriptives et développement de tableaux de bord interactifs (R Shiny, Dash, Tableau, Power BI, Streamlit) pour communiquer les résultats de manière efficace.",
+      "2": "Veille scientifique et technique : Investigation approfondie d'articles scientifiques pour extraire les dernières avancées en apprentissage automatique, deep learning et géostatistique, et les transposer aux enjeux métier.",
+      "3": "Modélisation et prédiction : Développement et déploiement d'algorithmes prédictifs (R, Python) pour simuler en temps réel les paramètres mécaniques du sol et optimiser la prise de décision.",
+      "4": "Expertise multi-SGBD : Conception d'applications web évolutives avec PostgreSQL, administration de vastes volumes de données d'entreprise avec Oracle Database et implémentation de solutions d'analyse complexes avec IBM Db2."
+    },
+    "Fondasol_date": "2020 - 2023",
+    "Fondasol_job": "Fondasol",
+    "Fondasol_course1": "Apprentissage automatique, Deep Learning, R, Python, Analyse de séries temporelles, Visualisation de données, R Shiny, Dash, Tableau, Power BI, Streamlit",
+    "LIRIS": "Stage de recherche en NLP",
+    "LIRIS_des": {
+      "0": "Conception et implémentation d'un agent conversationnel basé sur l'IA utilisant le deep learning et le traitement du langage naturel.",
+      "1": "Synthèse de publications scientifiques.",
+      "2": "Implémentation en Python (principalement PyTorch et TensorFlow)."
+    },
+    "LIRIS_date": "2020",
+    "LIRIS_job": "LIRIS (Laboratoire d'InfoRmatique en Image et Systèmes d'information)",
+    "LIRIS_course1": "Traitement du Langage Naturel (NLP), Deep learning, Python, PyTorch, TensorFlow",
+    "master2": "Master en Mathématiques Appliquées, Spécialisation en Data Science",
+    "master2_des": {
+      "0": "J'ai choisi une spécialisation en Data Science partagée entre les sections de Mathématiques et d'Informatique de l'Université Lyon 1."
+    },
+    "master2_date": "2019 - 2020",
+    "master2_job": "Université Claude Bernard Lyon 1",
+    "master2_course1": "Méthodes statistiques et Modèles de régression, Modèles graphiques probabilistes, Complexité des graphes et Combinatoire, Visualisation de données, Cloud Computing, Data Mining, Analyse de Big Data, Apprentissage automatique",
+    "master1": "Master 1 en Mathématiques Appliquées et Statistiques",
+    "master1_des": {
+      "0": "Formation en mathématiques appliquées et statistiques"
+    },
+    "master1_date": "2018 - 2019",
+    "master1_job": "Université Claude Bernard Lyon 1",
+    "master1_course1": "Théorie des probabilités, Statistiques, Analyse de séries temporelles, Analyse numérique et Optimisation, Traitement du signal",
+    "licence": "Licence en Mathématiques Générales",
+    "licence_des": {
+      "0": "Solide formation en mathématiques, probabilités et statistiques"
+    },
+    "licence_date": "2016 - 2018",
+    "licence_job": "Université d'Avignon",
+    "licence_course1": "Mathématiques, Théorie des probabilités, Statistiques"
   },
   "link": {
     "link": "Langue",

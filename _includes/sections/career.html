@@ -16,7 +16,11 @@
                     </div>
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
                         <h2><span data-i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></h2>
-                        <p><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.detail }}</span></p>
+                        <ul>
+                        {% for line in career.desc.detail %}
+                            <li><span data-i18n="career.{{ career.desc.i18n }}.{{ forloop.index0 }}">{{ line }}</span></li>
+                        {% endfor %}
+                        </ul>
                         {% if career.course1 %}
                         <h5><span data-i18n="career.main_field_of_study">Main field of study:</span></h5>
                         <p><span data-i18n="career.{{ career.course1.i18n }}">{{ career.course1.detail }}</span></p>
